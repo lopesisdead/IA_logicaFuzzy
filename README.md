@@ -1,1 +1,1 @@
-# IA_logicaFuzzy
+# Implementação de sistema Fuzzy para classificação de café numa versão simplificada do sistema SCA (Specialty Coffee Association)
